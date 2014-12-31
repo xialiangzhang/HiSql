@@ -7,7 +7,7 @@ import java.util.List;
 import java.util.Map;
 
 /**
- * HiSQL is a simple and efficient ORM utility for operating DB SQL
+ * HiSql is a simple and efficient ORM component
  *
  * @author	ZHANG.XL
  */
